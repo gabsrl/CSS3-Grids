@@ -35,3 +35,17 @@ footer {
     grid-area: footer;
     background-color: #bbbc;
 }
+
+
+/*
+    content: é o alinhamento do grid - ou seja, o "componente" grid - em si.
+        O uso dessa propriedade é mais rara. Só é mais utilizado quando o grid é
+        menor do que a área definida.
+    
+    item: é para o item celula
+
+    self: é a célula em si. Esse é o que aplicado nos grid-areas e não no grid container.
+
+*/
+
+
